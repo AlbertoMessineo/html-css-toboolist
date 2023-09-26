@@ -1,0 +1,13 @@
+#logo {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    vertical-align: sub;
+}
+
+h1 {
+font-family: 'Roboto', sans-serif;
+display: inline;
+font-size: 70px ;
+background-color: white;
+}

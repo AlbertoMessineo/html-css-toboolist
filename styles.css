@@ -1,3 +1,11 @@
+*{font-family: 'Roboto', sans-serif;}
+
+.titolo{
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 50px;
+}
+
 #logo {
     width: 70px;
     height: 70px;
@@ -10,4 +18,45 @@ font-family: 'Roboto', sans-serif;
 display: inline;
 font-size: 70px ;
 background-color: white;
+width: 100%;
+}
+
+.container{
+    background-color: #ffffff;
+    margin: auto;
+    height: 100%;
+    width: 50%;
+    line-height:  40px; 
+    border-radius: 2%;
+}
+
+.task1{
+    background-color: #14aaf5;
+    color: #ffffff;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 12%;
+  
+}
+
+.section{
+    background-color: #ffffff;
+    border-color:#d4d9dd ;
+    color: #d4d9dd;
+}
+
+
+.element{
+    border-radius: 50%;
+    border-color:#2dc6ab ;
+    color: #2dc6ab;
+}
+
+.elementx{
+    color: #ff4141
+}
+
+body{
+    background-color: #f6f8f9;
 }

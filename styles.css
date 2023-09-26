@@ -57,15 +57,21 @@ ul{
     list-style: none;     /*RIMOZIONE PALLINI LISTA PUNTATA*/
 }
 .element{
-    border-radius: 50%;
+    border-radius: 40%;
     border: 1px solid;
     border-color:#2dc6ab ;
     color: #2dc6ab;
 }
 
 .elementx{
-    color: #ff4141
+    color: #ff4141;
+    border-color:#ff4141;
+    border-radius: 40%;
+    border: 1px solid ;
+   
 }
+ 
+
 
 body{
     background-color: #f6f8f9;

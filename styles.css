@@ -37,37 +37,114 @@ width: 100%;
     box-sizing: border-box;
     padding: 5px;
     border-radius: 12%;
+    border: none;
   
 }
 
-.section{
+.selection{       
     background-color: #ffffff;
     border: 1px solid;
+    text-align: center;
     border-color:#d4d9dd ;
-    border-radius: 10%;
+    padding: 5px;
+    border-radius: 12%;
     color: #d4d9dd;
+
 }
+
+hr{
+    background-color:  #d4d9dd;
+      
+}
+.text{
+    padding: 10px;
+    text-align: left;
+    margin-left: 0px;
+}
+.button{
+    border: none;
+    padding: 5px;
+}
+/*_______________________________________
+ ____________STILE BOTTONI_______________
+ ________________________________________*/
 .blue{
     background-color: #14aaf5;
     border-radius: 10% ;
     color: #ffffff;
     text-align: center;
 }
+
+.violet {
+    background-color: #ab5de6;
+    border-radius: 10% ;
+    color: #ffffff;
+    text-align: center;
+}
+
+.dark-green{ 
+    background-color: #2cc6ab;
+    border-radius: 10% ;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+.orange{ 
+    background-color: #ff9b00;
+    border-radius: 10% ;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+.purple{ 
+    background-color: #ec4a9d;
+    border-radius: 10% ;
+    color:#ffffff ;
+    text-align: center;
+}
+
+
+
+.green{ 
+    background-color: #a3d116;
+    border-radius: 10% ;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+/*_______________________________________
+ ____________STILE BOTTONI_______________
+ ________________________________________*/
+
+
 ul{
     list-style: none;     /*RIMOZIONE PALLINI LISTA PUNTATA*/
 }
+
 .element{
-    border-radius: 40%;
-    border: 1px solid;
     border-color:#2dc6ab ;
     color: #2dc6ab;
+    border-radius: 100%;
+    border: 1px solid;
+    padding: 3px;
+    text-align: center;
+    object-fit: contain;
+   
 }
 
 .elementx{
     color: #ff4141;
     border-color:#ff4141;
-    border-radius: 40%;
+    border-radius: 100%;
     border: 1px solid ;
+    padding: 3px;
+    text-align: center;
+    object-fit: contain;
    
 }
  

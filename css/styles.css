@@ -1,0 +1,154 @@
+*{font-family: 'Roboto', sans-serif;}
+
+.titolo{
+    width: 100%;
+    background-color: #ffffff;
+    margin-bottom: 50px;
+}
+
+#logo {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    vertical-align: sub;
+}
+
+h1 {
+font-family: 'Roboto', sans-serif;
+display: inline;
+font-size: 70px ;
+background-color: white;
+width: 100%;
+}
+
+.container{
+    background-color: #ffffff;
+    margin: auto;
+    height: 100%;
+    width: 50%;
+    line-height:  40px; 
+    border-radius: 2%;
+}
+
+.task1{
+    background-color: #14aaf5;
+    color: #ffffff;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 12%;
+    border: none;
+  
+}
+
+.selection{       
+    background-color: #ffffff;
+    border: 1px solid;
+    text-align: center;
+    border-color:#d4d9dd ;
+    padding: 5px;
+    border-radius: 12%;
+    color: #d4d9dd;
+
+}
+.bottoni{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+hr{
+    background-color:  #d4d9dd;
+      
+}
+.text{
+    padding: 10px;
+    text-align: left;
+    margin-left: 0px;
+}
+.button{
+    border: none;
+    padding: 5px;
+    border-radius: 25%;
+}
+/*_______________________________________
+ ____________STILE BOTTONI_______________
+ ________________________________________*/
+.blue{
+    background-color: #14aaf5;
+    color: #ffffff;
+    text-align: center;
+}
+
+.violet {
+    background-color: #ab5de6;
+    color: #ffffff;
+    text-align: center;
+}
+
+.dark-green{ 
+    background-color: #2cc6ab;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+.orange{ 
+    background-color: #ff9b00;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+
+.purple{ 
+    background-color: #ec4a9d;
+    color:#ffffff ;
+    text-align: center;
+}
+
+
+
+.green{ 
+    background-color: #a3d116;
+   
+    color: #ffffff;
+    text-align: center;
+}
+
+
+/*_______________________________________
+ ____________STILE BOTTONI_______________
+ ________________________________________*/
+
+
+ul{
+    list-style: none;     /*RIMOZIONE PALLINI LISTA PUNTATA*/
+}
+
+.element{
+    border-color:#2dc6ab ;
+    color: #2dc6ab;
+    border-radius: 100%;
+    border: 1px solid;
+    padding: 3px;
+    text-align: center;
+    object-fit: contain;
+   
+}
+
+.elementx{
+    color: #ff4141;
+    border-color:#ff4141;
+    border-radius: 100%;
+    border: 1px solid ;
+    padding: 3px;
+    text-align: center;
+    object-fit: contain;
+   
+}
+ 
+
+
+body{
+    background-color: #f6f8f9;
+}
